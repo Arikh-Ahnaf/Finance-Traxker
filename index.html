@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Tracker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .input-container {
+            margin-bottom: 15px;
+        }
+        input[type="number"], button {
+            padding: 10px;
+            margin: 5px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:disabled {
+            background-color: #ccc;
+        }
+        #remainingText, #spentText {
+            font-size: 18px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Finance Tracker</h1>
+
+    <div class="input-container">
+        <label for="budgetInput">Set Budget:</label>
+        <input type="number" id="budgetInput" placeholder="Enter your budget">
+        <button id="setBudgetBtn">Set Budget</button>
+    </div>
+
+    <div class="input-container">
+        <label for="expenseInput">Add Expense:</label>
+        <input type="number" id="expenseInput" placeholder="Enter expense">
+        <button id="addExpenseBtn">Add Expense</button>
+    </div>
+
+    <button id="resetBtn">Reset</button>
+
+    <div id="remainingText">Remaining Budget: $0</div>
+    <div id="spentText">Total Expenses: $0</div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

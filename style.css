@@ -1,0 +1,352 @@
+/* General Container Styles */
+.container {
+    width: 90%;
+    max-width: 500px;  /* Limit maximum width */
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;  /* Light background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Soft shadow for depth */
+}
+
+/* Title Styles */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Label and Input Styles */
+label {
+margin-top:0.75em;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;  /* Include padding in the width */
+}
+
+/* Button Styles */
+button {
+    padding: 12px;
+    width: 100%;
+    margin-top: 15px; /* Added more space between buttons */
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #0056b3;  /* Darker shade on hover */
+}
+
+button:last-child {margin-top: 20px; /* Added more space between the reset button and the other elements */
+    background-color: #dc3545;
+}
+/* General Container Styles */
+.container {
+    width: 90%;
+    max-width: 500px; /* General Container Styles */
+.container {
+    width: 90%;
+    max-width: 500px;  /* Limit maximum width */
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;  /* Light background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Soft shadow for depth */
+}
+
+/* Title Styles */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Label and Input Styles */
+label {
+margin-top:0.75em;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;  /* Include padding in the width */
+}
+
+/* Button Styles */
+button {
+    padding: 12px;
+    width: 100%;
+    margin-top: 15px; /* Added more space between buttons */
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  box-sizing: border-box;  /* Include padding in the width */
+}
+
+/* Button Styles */
+button {
+    padding: 12px;
+    width:margin-top: 20px; /* Added more space between the reset button and the other elements */
+    background-color: #dc3545;
+}
+/* General Container Styles */
+.container {
+    width: 90%;
+    max-width: 500px; /* General Container Styles */
+.container {
+    width: 90%;
+    max-width: 500px;  /* Limit maximum width */
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;  /* Light background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Soft shadow for depth */
+}
+
+/* Title Styles */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Label and Input Styles */
+label {
+margin-top:0.75em;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;  /* Include padding in the width */
+}
+
+/* Button Styles */
+button {
+    padding: 12px;
+    width: 100%;
+    margin-top: 15px; /* Added more space between buttons */
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px 100%;
+    margin-top: 15px; /* Added more space between buttons */
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #0056b3;  /* Darker shade on hover */
+}
+
+button:last-child {
+    margin-top: 20px; /* Added more space between the reset button and the other elements */
+    background-color: #dc3545;
+}
+/* General Container Styles */
+  .container {
+    width: 90%;
+    max-width: 500px;  /* Limit maximum width */
+    margin: 0 auto; /* Limit maximum width */
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;  /* Light background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Soft shadow for depth */
+}
+
+/* Title Styles */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Label and Input Styles */
+label {
+margin-top:0.75em;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;  /* Include padding in the width */
+}
+  /* Button Styles */
+button {
+    padding: 12px;
+    width: 100%;
+    margin-top: 15px; /* Added more space between buttons */
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #0056b3;  /* Darker shade on hover */
+}
+
+button:last-child {
+    margin-top: 20px; /* Added more space between the reset button and the other elements */
+    background-color: #dc3545;
+}
+
+button:
+button:last-child:hover {
+    background-color: #c82333;
+}
+
+/* Text Display Styles */
+h2 {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #333;
+}
+/* General Container Styles */
+.container {
+    width: 90%;
+    max-width: 500px;  /* Limit maximum width */
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;  /* Light background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Soft shadow for depth */
+}
+  /* Title Styles */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Label and Input Styles */
+label {
+margin-top:0.75em;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;  /* Include padding in the width */
+}
+
+/* Button Styles */
+button {
+    padding: 12px;
+    width: 100%;
+    margin-top: 15px; /* Added more space between buttons */
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #0056b3;  /* Darker shade on hover */
+}
+
+button:last-child {
+    margin-top: 20px; /* Added more space between the reset button and the other elements */
+    background-color: #dc3545;
+}
+
+button:last-child:hover {
+p {
+    font-size: 1.2em;
+    color: #555;
+    margin: 10px 0;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 600px) {
+    /* For smaller screens */
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
+
+    button {
+        font-size: 1em;
+    }
+ input {
+        font-size: 1em;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    p {
+        font-size: 1.1em;
+    }
+}
+
+@media (max-width: 400px) {
+    /* For very small screens */
+    button {
+        padding: 10px;
+    }
+
+    input {
+        padding: 8px;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+}
